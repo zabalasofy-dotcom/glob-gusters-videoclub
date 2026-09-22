@@ -91,4 +91,3 @@ CREATE TABLE Reparto (
     FOREIGN KEY (Actor_ID) REFERENCES Actor(ID),
     FOREIGN KEY (Pelicula_ID) REFERENCES Pelicula(ID)
 );
- 
