@@ -1,6 +1,6 @@
 -- Base de Datos Relacional Glob-Gusters Video-Club
 -- Autor: Allison Sofia Zabala Serrano
--- Fecha: 2026-09-15
+-- Fecha: 2026-09-22
  
 -- Creación de la base de datos
 CREATE DATABASE IF NOT EXISTS glob_gusters DEFAULT CHARACTER SET utf8mb4 COLLATE utf8mb4_general_ci;
